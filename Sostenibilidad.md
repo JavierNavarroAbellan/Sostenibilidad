@@ -2,3 +2,6 @@ Semana 1: Miguel explica lo que vamos a hacer durante el curso y el trabajo que 
 
 
 Semana 2: Miguel explica el tema 1 sobre la sostenibilidad 
+
+
+Semana 3: Miguel explica las similitudes y diferencias entre los humanos y otros animales 
