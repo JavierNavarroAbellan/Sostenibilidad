@@ -2,6 +2,9 @@
 ##
 ## Octubre
 
+### Semana 4 31/10/2025
+Hemos hablado de la limitación de los recursos en el planeta, de las 3 dimensiones de la sociedad, social, económica y ambiental
+
 
 ### Semana 3 24/10/2025
 Hemos hablado sobre los 2 tipos de estrategias que tienen las especies de reproducirse, la R (Tener muchos hijos) y la K (Tener menos hijos)
