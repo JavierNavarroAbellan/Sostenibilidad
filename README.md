@@ -1,5 +1,23 @@
 # Sostenibilidad
 ##
+## Noviembre
+
+### Semana 1 14/11/2025
+
+### Resumen
+ Hemos hablado sobre el ciclo de vida del producto y las etapas y recursos que son necesarios para crear cualquier producto
+
+ ### Pregunta
+ ### ¿Cual es el consumo de materiales necesario para conseguir 1Kg de litio?
+
+ Una batería típica de un teléfono móvil contiene alrededor de 2 a 8 gramos de litio puro, para extraer 1kg se necesitan entre 1000 y 1500 KG de materiales
+
+ ### Opinión personal
+ Producir cualquier producto es costoso en terminos de materiales pero no se puede hacer gran cosa para abaratar la obtención de estos recursos ya que ya esta bastante optimizado, lo unico en lo que se puede pensar es en reutilizar los materiales de vertederos o productos viejos
+
+![alt text](image.png)
+
+##
 ## Octubre
 
 ### Semana 4 31/10/2025
