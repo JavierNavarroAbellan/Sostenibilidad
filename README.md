@@ -2,6 +2,21 @@
 ##
 ## Noviembre
 
+### Semana 2 28/11/2025
+
+
+### Resumen
+Hemos hablado sobre la economia lineal y circular, la economia lineal es la que genera recursos y no los reutiliza, genera muchos residuos que el recicliaje no puede absorber, y puede provocar que se acaben los recursos, la economia circula es la que reutiliza los recursos y residuos que ya no sirven, se vasa en crear productos sostenibles y reutilizar recursos
+
+### Pregunta
+### ¿En que me afecta el ecodiseño? ¿Enfoque colectivo o individual?
+Lo mas util es utilizar economia circular con un enfoque colectivo, asi se puede reutilizar los recursos para que se abarate la creación de productos, lo que nos afecta a nosotros ya que se abarata el propio producto
+
+### Opinión personal
+Creo que la economia circular es la manera mas practica de economia, ya sea por reutilizar recursos como por abaratar el mercado
+
+![alt text](image-1.png)
+
 ### Semana 1 14/11/2025
 
 ### Resumen
