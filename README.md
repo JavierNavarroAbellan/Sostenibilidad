@@ -2,6 +2,24 @@
 ##
 ## Diciembre
 
+### Semana 2 12/12/2025
+
+### Resumen
+Hemos hablado sobre el cambio climático, las emisiones de gases de efecto invernadero, la cascada de problemas que genera el cambio climático, el analisis de costes que puede llegar a producir el cambio climático, los conflictos por minerales y recursos, politicas de mitigación al cambio climático
+
+### Pregunta
+### ¿Cuál es el principal emisor de CO2?
+La quema de combustibles fósiles como el carbón, petróleo y gas natural para la generación de energía y el transporte
+
+### ¿Que puedo hacer como programador para mitigar el cambio climático?
+Intentar que lo que programe consuma los menos recursos posibles
+
+### Opinión personal
+Creo que el cambio climatico es un problema que puede afectar a distintos conflictos por intereses ya sea de recursos, de comodidad o empleo
+
+![alt text](image-3.png)
+
+
 ### Semana 1 05/12/2025
 No pude venir a clase, se habló lo siguiente:
 
@@ -13,6 +31,8 @@ Utilizando una herramienta para calcular la huella de carvono me ha dado como re
 
 ### Opinión personal
 No me suelo preocupar demasiado por la huella de carbono, pero es verdad que es un problema que se puede intentar solventar con medidas como el transporte publico, la reutilización de productos y el reciclaje
+
+![alt text](image-2.png)
 
 
 ##
