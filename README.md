@@ -1,9 +1,24 @@
 # Sostenibilidad
 ##
+## Diciembre
+
+### Semana 1 05/12/2025
+No pude venir a clase, se habló lo siguiente:
+
+La huella ecológica/carbono
+
+### Pregunta
+### ¿Cuál es tu huella de carbono?
+Utilizando una herramienta para calcular la huella de carvono me ha dado como resultado 15.3t CO2e por año
+
+### Opinión personal
+No me suelo preocupar demasiado por la huella de carbono, pero es verdad que es un problema que se puede intentar solventar con medidas como el transporte publico, la reutilización de productos y el reciclaje
+
+
+##
 ## Noviembre
 
 ### Semana 2 28/11/2025
-
 
 ### Resumen
 Hemos hablado sobre la economia lineal y circular, la economia lineal es la que genera recursos y no los reutiliza, genera muchos residuos que el recicliaje no puede absorber, y puede provocar que se acaben los recursos, la economia circula es la que reutiliza los recursos y residuos que ya no sirven, se vasa en crear productos sostenibles y reutilizar recursos
