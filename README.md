@@ -1,4 +1,24 @@
 # Sostenibilidad
+
+##
+## Enero
+
+### Semana 1 09/01/2026
+
+### Resumen
+Hemos hablado de la contaminación, los vertederos, las alcantarillas, las hormonas y los problemas que generan los microplásticos en ellas, la bioacumulación de microplasticos de la comida que comemos y las fabricas
+
+### Pregunta
+### ¿Por qué cambias de movil?
+Por que se rompió y repararlo era mucho mas caro que comprar uno nuevo, solo cambio de movil cuando se rompe el anterior
+
+
+### Opinión personal
+La contaminación es un problema grave y los microplasticos un problema serio para la salud
+
+![alt text](image-4.png)
+
+
 ##
 ## Diciembre
 
