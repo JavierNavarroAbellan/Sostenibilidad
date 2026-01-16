@@ -3,6 +3,20 @@
 ##
 ## Enero
 
+### Semana 2 16/01/2026
+
+### Resumen
+Hemos hablado sobre los objetivos de desarollo sostenible, pros, contras y cuales son.
+
+### Pregunta
+### ¿Se van a conseguir los objetivos de desarrollo sostenible?
+Yo creo que no, ya que algunos son muy ambiguos o alejados de la realidad que tenemos ahora mismo.
+
+### Opinión personal
+Yo creo que los objetivos son buenos en su mayoria pero son muy dificiles de llevar a cabo, también son muy ambiguos ya que no significa lo mismo para unos paises que para otros conceptos como igualdad, cero hambre...
+
+![alt text](image-5.png)
+
 ### Semana 1 09/01/2026
 
 ### Resumen
