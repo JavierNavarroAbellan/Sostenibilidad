@@ -3,6 +3,20 @@
 ##
 ## Enero
 
+### Semana 3 23/01/2026
+
+### Resumen
+Hemos hablado de la sostenibilidad en las empresas, la relación que tiene con el medio ambiente la sociedad o la economía, tambien hemos hablado de los pasos de los planes de sostenibilidad, Diagnóstico inicial, grupos de interés, materialidad, acción y métricas
+
+### Pregunta
+### ¿Greenwashing o sostenibilidad real?
+Creo que depende de la empresa y del tipo de sostenibilidad que aplique, pero mayormente creo que es sostenibilidad ya que beneficia a las empresas con beneficios sociales o economicos y la ayuda a sobrevivir
+
+### Opinión personal
+Creo que es importante que las empresas tengan este tipo de planes, ya sea para el resto de la sociedad o por beneficio propio para poder sobrevivir y seguir haciendo su labor
+
+![alt text](image-6.png)
+
 ### Semana 2 16/01/2026
 
 ### Resumen
