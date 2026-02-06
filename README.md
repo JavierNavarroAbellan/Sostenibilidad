@@ -1,6 +1,22 @@
 # Sostenibilidad
 
 ##
+## Febrero
+
+### Semana 1 06/02/2026
+
+### Resumen
+Hemos realizado todas las exposiciones sobre las civilizaciones, tambien hemos hablado cada uno de nuestras acciones sostenibles y las hemos defendido.
+
+### Pregunta
+### Ninguna
+
+### Opinión personal
+Creo que han sido unas exposiciones interesantes en las que podemos ver los fallos que han cometido otras civilizaciones y aprender por que desaparecieron, tambien han habido varias propuestas de acciones sostenibles muy interesantes.
+
+![alt text](image-7.png)
+
+##
 ## Enero
 
 ### Semana 3 23/01/2026
